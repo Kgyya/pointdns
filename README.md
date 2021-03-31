@@ -11,4 +11,4 @@ cd pointdns
 python pointdns.py
 ```
 ### Hasil:
-![img](https://github.com/Kgyya/pointdns/Screenshot_20210331_223124.jpg)
+![img](https://github.com/Kgyya/pointdns/blob/main/Screenshot_20210331_223124.jpg)
